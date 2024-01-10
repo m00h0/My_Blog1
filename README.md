@@ -106,7 +106,7 @@ rspec
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/newtonah0/My-Blog/issues).
+Feel free to check the [issues page](https://github.com/newtonah0/My-Blog1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
