@@ -1,92 +1,17 @@
-.person {
-  border: 2px solid black;
-  padding: 3%;
-}
-
-.render-container {
-  display: flex;
-  margin: 20px;
-}
-
-.features {
-  display: flex;
-  gap: 8px;
-  justify-content: flex-end;
-  margin: 2%;
-}
-
-.features-lastpage {
-  display: flex;
-  justify-content: flex-end;
-  gap: 8px;
-  margin: 2%;
-  margin-top: -75px;
-}
-
-.user-container {
-  margin-left: 20px;
-  border: 2px solid black;
-  padding: 3%;
-  width: 100%;
-}
-
-.username {
+.no-link {
   text-decoration: none;
-  color: black;
-  font-size: 36px;
-  font-weight: bold;
 }
 
-.username:hover {
-  cursor: pointer;
-}
-
-.user-container p {
-  font-weight: bold;
-  font-size: 13px;
-  display: flex;
-  justify-content: flex-end;
-}
-
-.bio-container {
-  border: 2px solid black;
-  padding: 10px;
-  margin: 20px;
-}
-
-.main-container {
-  border: 2px solid black;
-  list-style: none;
-  height: 150px;
-  margin: 20px;
-}
-
-.blog {
+.no-link:hover {
   text-decoration: none;
-  color: black;
-}
-
-.see-all {
-  padding: 10px;
-  background-color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
-}
-
-.see-all a {
-  text-decoration: none;
-  color: black;
+  background-color: aliceblue;
 }
 
 .comments {
-  border: 2px solid black;
-  list-style: none;
-  padding: 4%;
-  margin: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
 }
 
-.comment {
-  font-size: 16px;
+.comment-btn {
+  float: left;
 }
