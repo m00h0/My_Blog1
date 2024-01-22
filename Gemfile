@@ -73,5 +73,6 @@ end
 group :development, :test do
   gem 'debug', platforms: %i[mri windows]
   gem 'rails-controller-testing', '~> 1.0'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 5.0'
+  gem 'webdrivers'
 end
