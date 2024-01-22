@@ -10,8 +10,6 @@ gem 'rails', '~> 7.1.1'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
 
-gem 'capybara'
-
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 1.1'
 
@@ -73,5 +71,6 @@ end
 group :development, :test do
   gem 'debug', platforms: %i[mri windows]
   gem 'rails-controller-testing', '~> 1.0'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 5.0'
+  gem 'webdrivers'
 end
