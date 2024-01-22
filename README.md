@@ -2,22 +2,23 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Author](#author)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[My Blog\] ](#-my-blog-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup ](#setup-)
+    - [Prerequisites ](#prerequisites-)
+    - [Install ](#install-)
+    - [Usage ](#usage-)
+    - [Run tests ](#run-tests-)
+  - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 # 📖 [My Blog] <a name="about-project"></a>
 
@@ -94,6 +95,7 @@ rspec
 ## 👥 Author <a name="author"></a>
 
 - GitHub: [@newtonah0](https://github.com/newtonah0)
+- GitHub: [@ometman](https://github.com/ometman)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
