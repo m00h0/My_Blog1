@@ -1,12 +1,12 @@
 class PostsController < ApplicationController
   def index
-    @user = User.find_by_id(params[:user_id])
-    @posts = @user.posts if @user # if there is a user, show only their posts
+    @user = User.find(params[:user_id])
+    @posts = Post.includes(:author, :comments).where(author_id: @user)
   end
 
   def show
-    @user = User.find_by_id(params[:user_id])
-    @post = Post.find_by_id(params[:id])
+    @user = User.find(params[:user_id])
+    @post = Post.includes(:author, :comments, :likes).find_by(author_id: @user, id: params[:id])
   end
 
   def new

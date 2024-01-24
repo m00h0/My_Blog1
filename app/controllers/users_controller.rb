@@ -1,7 +1,6 @@
 class UsersController < ApplicationController
   def index
-    @user = User.find_by_id(params[:user_id])
-    @posts = @user.posts.includes(:comments) if @user
+    @users = User.all
   end
 
   def show
