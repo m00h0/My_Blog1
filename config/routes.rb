@@ -6,6 +6,10 @@ Rails.application.routes.draw do
   # get "users", to: "users#index", as: "users"
   # get "users/:id", to: "users#show", as: "user"
 
+  devise_for :users
+  
+  root to: "home#index"
+
   resources :users do
     resources :posts do
       resources :comments
