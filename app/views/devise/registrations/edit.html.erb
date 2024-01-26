@@ -26,6 +26,11 @@
     <%= f.password_field :password_confirmation, autocomplete: "new-password" %>
   </div>
 
+  <div class="field mb-2">
+    <%= f.label :role, class: 'form-label' %><br />
+    <%= f.text_field :role, class: 'form-control', autofocus: true, autocomplete: "role" %>
+  </div>
+  
   <div class="field">
     <%= f.label :current_password %> <i>(we need your current password to confirm your changes)</i><br />
     <%= f.password_field :current_password, autocomplete: "current-password" %>
