@@ -94,7 +94,7 @@ rspec
 
 ## 👥 Author <a name="author"></a>
 
-- GitHub: [@newtonah0](https://github.com/newtonah0)
+- GitHub: [@m00h0](https://github.com/m00h0)
 - GitHub: [@ometman](https://github.com/ometman)
 
 ## 🔭 Future Features <a name="future-features"></a>
