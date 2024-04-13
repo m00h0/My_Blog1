@@ -55,7 +55,7 @@ Ruby, Ruby on Rails, Visual Studia Code, PostgreSQL
 
 In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
 
-https://github.com/newtonah0/My-Blog1.git
+https://github.com/m00h0/My-Blog1.git
 
 ### Prerequisites <a name="prerequisites"></a>
 
