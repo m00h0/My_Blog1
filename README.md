@@ -33,13 +33,24 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Ruby on Rails</summary>
-</details>
-
-<details>
-  <summary>PostgreSQL</summary>
-</details>
+<details> <summary>Languages</summary>
+  <ul>
+  <li>Ruby</li>
+  <li>HTML</li>
+  <li>JavaScript</li>
+  <li>CSS</li>
+  <li>Batchfile</li>
+  <li>Shell</li> </ul>
+</details> 
+<details> <summary>Frameworks</summary>
+  <ul> <li>Ruby on Rails</li> </ul> </details>
+  <details> <summary>Databases</summary>
+    <ul> <li>PostgreSQL</li></ul></details>
+    <details> <summary>Tools</summary>
+      <ul>
+        <li>Visual Studio Code</li>
+        <li>Docker</li>
+        <li>Git</li> </ul> </details>
 
 ### Key Features <a name="key-features"></a>
 
