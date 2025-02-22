@@ -26,7 +26,10 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-Ruby, Ruby on Rails, Visual Studia Code, PostgreSQL
+- Ruby
+- Ruby on Rails
+- Visual Studia Code
+- PostgreSQL
 
 ### Tech Stack <a name="tech-stack"></a>
 
